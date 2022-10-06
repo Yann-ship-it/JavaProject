@@ -14,7 +14,7 @@ public class Variables {
         byte calc1 = 86;
         byte calc2 = 56;
         byte calc3 = 50;
-        int mass = calc1 + calc2 + calc3;
+        int mass = calc1 + calc2 + calc3; // Je créer un variable mass pour calculer mes 3 autres variables qui contiennent un nombre
         System.out.print("final" + " : " + mass);
     }
 }
